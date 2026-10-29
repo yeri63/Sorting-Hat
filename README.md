@@ -1,6 +1,6 @@
 # Sorting Hat
 
-![Screenshot of Sorting Hat](https://github.com/yeri63-hp48g/Sorting-Hat/raw/main/Hat.png)
+![Screenshot of Sorting Hat](Hat.png)
 
 You've just received your invitation to the most famous school for witches and wizards, but due to social distancing and a global pandemic, you're stuck with remote learning! No ride on the express train through the mountains, enjoying meals with your house mates under a candle lit dome in the great hall. And any thought of joining the schools sports involving flying brooms will have to wait another year. What to do, stuck in the world of Muggles, forbidden to practice magic? Well, at least you could use magic, cleverly concealed so that no one might notice, within an old programmable calculator, to apparate an virtual sorting hat, just long enough to sort you into your future house. The would at least give you plenty of time to get your wardrobe in order, matching the color scheme of your house mates.
 
